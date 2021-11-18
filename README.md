@@ -8,13 +8,13 @@
 
 
 
-                  <p>
+
                     Sistema de login utilizando a api do github com php para fins de estudo
                     no arquivo de configuração preencha as informações abaixo com a url base do
                     sistema e as credenciais.
-                  </p>
 
-                  <pre>
+
+
 
                       //URL BASE
                       define("CONF_URL_BASE", "");
@@ -30,7 +30,7 @@
                        "client_secret"=>""
                       ]);
 
-                      //LINK 
+                      //LINK
                       define("URL_LINK", URL_API_AUTH . "?client_id=". CLIENT['client_id']);
 
-                  </pre>
+                  

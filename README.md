@@ -1,7 +1,7 @@
 
 
                     /////////////////////////////////////////////////////////////////////////
-                                    <h1>AUTENTICAÇÃO USANDO API DO GITHUB</h1>
+                                    AUTENTICAÇÃO USANDO API DO GITHUB
                    /////////////////////////////////////////////////////////////////////////
 
 
@@ -32,5 +32,3 @@
 
                       //LINK
                       define("URL_LINK", URL_API_AUTH . "?client_id=". CLIENT['client_id']);
-
-                  

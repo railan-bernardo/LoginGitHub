@@ -1,7 +1,7 @@
 
 
 
-                    ##  AUTENTICAÇÃO USANDO API DO GITHUB
+                    #  AUTENTICAÇÃO USANDO API DO GITHUB
 
 
 
@@ -11,7 +11,7 @@
 
                     [![Latest Version](https://img.shields.io/github/release/railan-bernardo/LoginGitHub.svg?style=flat-square)](https://github.com/railan-bernardo/LoginGitHub/releases)
                     [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-                    
+
                     ## Sobre
 
                     Sistema de autenticação utilizando a api do github com php
@@ -38,3 +38,4 @@
 
                       //LINK
                       define("URL_LINK", URL_API_AUTH . "?client_id=". CLIENT['client_id']);
+                      ```

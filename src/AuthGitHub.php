@@ -50,7 +50,6 @@ class AuthGitHub
           $authHeader = "Authorization: token ". $data->access_token;
           $userAgent = "User-Agent: Demo";
 
-        //  echo $authHeader . "<br />";
 
           $ch = curl_init();
           curl_setopt($ch, CURLOPT_URL, URL_API_USER);

@@ -1,7 +1,7 @@
 
 
 
-                    #  AUTENTICAÇÃO USANDO API DO GITHUB
+                    # AUTENTICAÇÃO USANDO API DO GITHUB
 
 
 
@@ -14,7 +14,6 @@
                     #### Configuração
 
                     ```php
-                    <?php
                       //URL BASE
                       define("CONF_URL_BASE", "");
 

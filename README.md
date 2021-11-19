@@ -5,22 +5,15 @@
 
 
 
-
-                    [![Maintainer](http://img.shields.io/badge/maintainer-@railan-bernardo-blue.svg?style=flat-square)](https://twitter.com/railanbernardo)
-                    [![Source Code](http://img.shields.io/badge/source-railan-bernardo/logingithub-blue.svg?style=flat-square)](https://github.com/railan-bernardo/LoginGitHub)
-
-                    [![Latest Version](https://img.shields.io/github/release/railan-bernardo/LoginGitHub.svg?style=flat-square)](https://github.com/railan-bernardo/LoginGitHub/releases)
-                    [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-
                     ## Sobre
 
                     Sistema de autenticação utilizando a api do github com php
 
 
 
-                    ## Configuração
+                    #### Configuração
 
-                    ``` php
+                    ```php
                     <?php
                       //URL BASE
                       define("CONF_URL_BASE", "");
